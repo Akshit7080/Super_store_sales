@@ -11,9 +11,9 @@ appealing dashboard, add interactive visualization and filtering capabilities <b
 to allow users to explore the data at various levels of granularity<br><br>
 <b>2.Data Analysis:</b>Provide valuable insight to business entities regarding the effectiveness<br>
 of their sales strategies through visualization and charts<br><br>
-3.Sales Forecasting:Leverage historic data and apply time series analysis to <br>generate sales
+<b>3.Sales Forecasting:</b>Leverage historic data and apply time series analysis to <br>generate sales
 forecasts for next 15 days<br><br>
-4.Actionable Insight and Recommendation:End goal is to share valuable insight<br>
+<b>4.Actionable Insight and Recommendation:</b>End goal is to share valuable insight<br>
 and actionable information that can drive strategic decision-making and support the <br>
 supermarket's goals for growth, efficiency, and customer satisfaction<br><hr>
 
