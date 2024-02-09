@@ -1,7 +1,7 @@
 # Super_store_sales
 
 **objective**
-To Contribute to the success of a business by utilizing data analysis<br>
+To Contribute to the success of a business by utilizing data analysis<br><hr>
 techniques,specifically Focusing on time series analysis,<br> to provide
 valueable insight and accurate sales Forecasting.
 
