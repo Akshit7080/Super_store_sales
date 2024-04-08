@@ -8,7 +8,7 @@ valueable insight and accurate sales Forecasting.
 **Description**<hr>
 **1.Dashboard Creation:** Identify the KPIs, design an intutive and visually <br>
 appealing dashboard, add interactive visualization and filtering capabilities <br>
-to allow users to explore the data at various levels of granularity<br><br>
+to allow users to explore the data at various levels of granularity.<br><br>
 <b>2.Data Analysis:</b>Provide valuable insight to business entities regarding the effectiveness<br>
 of their sales strategies through visualization and charts<br><br>
 <b>3.Sales Forecasting:</b>Leverage historic data and apply time series analysis to <br>generate sales
